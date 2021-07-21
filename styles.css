@@ -1,0 +1,13 @@
+#mainDiv{
+    color: blueviolet;
+    font-size: 72px;
+}
+#redText{
+    color: red;
+}
+#greenText{ /*funny*/
+    color: green;
+}
+#blueText{
+    color: blue;
+}
