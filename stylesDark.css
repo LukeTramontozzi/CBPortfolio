@@ -1,0 +1,23 @@
+body{
+    background-color: #101010;
+    color: white
+}
+#mainDiv{
+    color: yellow;
+    font-size: 72px;
+}
+#redText{
+    color: red;
+}
+#greenText{ /*funny*/
+    color: green;
+}
+#blueText{
+    color: blue;
+}
+.moneyMaker{
+    color: lightgreen;
+}
+.meGusta{
+    font-weight: bold;
+}
